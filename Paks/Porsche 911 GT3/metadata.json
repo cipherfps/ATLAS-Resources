@@ -1,8 +1,8 @@
 {
   "name": "Porsche 911 GT3",
   "author": "Made by Zyron",
-  "cardDescription": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite 8.51",
-  "description": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite 8.51.\n\n**Includes:**\n- Custom vehicle mesh\n- Custom sounds\n- Custom stats such as top speed and acceleration\n\nNote: Uses the Quadcrasher as the base vehicle.",
+  "cardDescription": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite v8.51",
+  "description": "Adds a Porsche 911 GT3 vehicle replacement to Fortnite v8.51\n\n**Includes:**\n- Custom vehicle mesh\n- Custom sounds\n- Custom stats such as top speed and acceleration\n\nNote: Uses the Quadcrasher as the base vehicle",
   "version": "8.51",
   "tags": ["Custom Vehicle"],
   "cardImage": "Content/PorschePreview.png",
@@ -10,10 +10,6 @@
     {
       "type": "image",
       "path": "Content/PorschePreview.png"
-    },
-    {
-      "type": "video",
-      "url": "https://www.youtube.com/watch?v=4OUskoVG3A0"
     }
   ],
   "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Porsche%20911%20GT3",

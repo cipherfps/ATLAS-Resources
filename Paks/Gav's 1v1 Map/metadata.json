@@ -1,8 +1,8 @@
 {
   "name": "Gav's 1v1 Map",
   "author": "Made by Gav",
-  "cardDescription": "Includes a proper 1v1 map and allows for practice on 27.11",
-  "description": "Includes a proper 1v1 map and allows for practice on 27.11\n\n**Features:**\n- Change the background by pressing Insert\n- Arena Points included\n- No Fall Damage\n- Spawn loadout: Blue AR, Gold Pump, Skye Grappler, Mini Shields\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Gav 1v1 Map\" playlist",
+  "cardDescription": "Includes a proper 1v1 map and allows for practice on Fortnite v27.11",
+  "description": "Includes a proper 1v1 map and allows for practice on Fortnite v27.11\n\n**Features:**\n- Change the background by pressing Insert\n- Arena Points included\n- No Fall Damage\n- Spawn loadout: Blue AR, Gold Pump, Skye Grappler, Mini Shields\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Gav 1v1 Map\" playlist",
   "version": "27.11",
   "tags": ["Custom Map"],
   "cardImage": "Content/1v1Preview.png",

@@ -1,8 +1,8 @@
 {
   "name": "Only Up",
   "author": "Made by Jett",
-  "cardDescription": "Adds the Only Up gamemode ported into Season OG",
-  "description": "Adds the Only Up gamemode ported into Season OG.\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Only Up\" playlist.",
+  "cardDescription": "Ports the Only Up gamemode into Fortnite v27.11",
+  "description": "Ports the Only Up gamemode into Fortnite v27.11\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Only Up\" playlist",
   "version": "27.11",
   "tags": ["Custom Map"],
   "cardImage": "Content/OnlyUpPreview.png",
