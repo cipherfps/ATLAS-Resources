@@ -1,0 +1,22 @@
+{
+  "name": "Gav's Guns",
+  "author": "Made by Gav",
+  "cardDescription": "Adds custom weapons for 27.11, including options useful for trickshotting",
+  "description": "Adds a collection of custom weapons for 27.11, including options useful for trickshotting.\n\n**Features:**\n- Custom weapon content\n- Useful for trickshot setups\n- Designed for the 27.11 build",
+  "version": "27.11",
+  "tags": ["Custom Weapons"],
+  "cardImage": "Content/ItemPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/ItemPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Gav%27s%20Guns",
+  "files": [
+    "z_pakchunk5000-WindowsClient_P.pak",
+    "z_pakchunk5000-WindowsClient_P.sig",
+    "z_pakchunk5000-WindowsClient_P.ucas",
+    "z_pakchunk5000-WindowsClient_P.utoc"
+  ]
+}

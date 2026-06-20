@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft",
+  "author": "Made by Brux",
+  "cardDescription": "Retextures Fortnite 6.31 with a Minecraft-inspired world style",
+  "description": "Retextures Fortnite 6.31 with a Minecraft-inspired world style.\n\n**Includes:**\n- Minecraft-themed visual changes\n- Preview media showing the retextured world",
+  "version": "6.31",
+  "tags": ["Texture Pack"],
+  "cardImage": "Content/MinecraftPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/MinecraftPreview.png"
+    },
+    {
+      "type": "video",
+      "path": "Content/MinecraftVideo.mp4"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Minecraft",
+  "files": [
+    "pakchunkMCWorld-WindowsClient.pak",
+    "pakchunkMCWorld-WindowsClient.sig"
+  ]
+}
