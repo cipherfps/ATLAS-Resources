@@ -1,20 +1,7 @@
 {
   "name": "Gav's 1v1 Map",
   "author": "Gav",
-  "description": 
-"
-### Gav's file made 1v1s, clips, and practice on 27.11
-
-**Features**:
-- Change the background by pressing Insert
-- Arena Points included
-- No Fall Damage
-- Spawn loadout: Blue AR, Gold Pump, Skye Grappler, Mini Shields
-
----
-
-Note: Works with our gameserver Magnesium when you select the \"Gav 1v1 Map\" playlist
-",
+  "description": "## A pak that includes a proper 1v1 map and practice on 27.11\n\n**Features:**\n- Change the background by pressing Insert\n- Arena Points included\n- No Fall Damage\n- Spawn loadout: Blue AR, Gold Pump, Skye Grappler, Mini Shields\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Gav 1v1 Map\" playlist",
   "version": "27.11",
   "tags": ["Custom Maps"],
   "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Gav's%201v1%20Map",
