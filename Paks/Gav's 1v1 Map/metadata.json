@@ -2,7 +2,8 @@
   "name": "Gav's 1v1 Map",
   "author": "Gav",
   "description": "Adds Gav's 1v1 map files to the selected Fortnite build's Paks folder.",
-  "version": "Chapter 5 Season Remix",
+  "version": "27.11",
+  "tags": ["Chapter 5 Season Remix", "Map", "1v1"],
   "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Gav's%201v1%20Map",
   "files": [
     "z_pakchunk5003-WindowsClient_P.pak",
