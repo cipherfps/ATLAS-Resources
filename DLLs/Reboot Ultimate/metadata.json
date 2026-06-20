@@ -1,0 +1,10 @@
+{
+  "name": "Reboot Ultimate",
+  "author": "ATLAS Resources",
+  "description": "Reboot Ultimate V1 DLL packaged for the ATLAS Link injector.",
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/DLLs/Reboot%20Ultimate",
+  "files": [
+    "Reboot Ultimate V1.dll"
+  ],
+  "images": []
+}
