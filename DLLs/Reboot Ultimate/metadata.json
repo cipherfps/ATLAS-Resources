@@ -3,7 +3,7 @@
   "author": "Made by Ralzify",
   "cardDescription": "Reboot Ultimate is a rewrite of the original Project Reboot 3.0. This version of Reboot strives for adding new things to Reboot, while keeping it all stable",
   "description": "Reboot Ultimate is a rewrite of the original Project Reboot 3.0. This version of Reboot strives for adding new things to Reboot, while keeping it all stable",
-  "version": "Limited (v1-19)",
+  "version": "1-19",
   "tags": ["Game Server"],
   "dataSlot": "gameserver",
   "cardImage": "Content/DLLPreview.png",
