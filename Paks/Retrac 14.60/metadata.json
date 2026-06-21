@@ -1,10 +1,11 @@
 {
   "name": "Retrac 14.60 Pak",
   "author": "Made by Project Retrac",
-  "cardDescription": "Allows you to play locally with Retrac content",
-  "description": "Allows you to play locally with Retrac content\n\n---\n\nNote: Requires athena profile and authenticator files",
+  "cardDescription": "Allows you to play locally with Retrac content on Fortnite v14.60",
+  "description": "Allows you to play locally with Retrac content on Fortnite v14.60\n\n---\n\nNote: Requires athena profile and authenticator files",
   "version": "14.60",
-  "tags": ["Custom Cosmetics", "Custom Maps"],
+  "dependencies": ["DLLs/14.60 Pak Authenticator"],
+  "tags": ["Custom Cosmetics"],
   "cardImage": "Content/RetracPreview.png",
   "media": [
     {
