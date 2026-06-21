@@ -4,6 +4,7 @@
   "cardDescription": "Ports the Tilted FFA gamemode into Fortnite v27.11",
   "description": "Ports the Tilted FFA gamemode into Fortnite v27.11\n\n---\n\nNote: Works with our gameserver Magnesium when you select the \"Tilted FFA\" playlist",
   "version": "27.11",
+  "dependencies": ["EXEs/27.11"],
   "tags": ["Custom Map"],
   "cardImage": "Content/TiltedFFAPreview.png",
   "media": [
