@@ -1,0 +1,23 @@
+{
+  "name": "Core",
+  "author": "Made by Pongo_x86",
+  "cardDescription": "A Universal Gameserver For Fortnite that aims for accuracy over version support. This gameserver should also have working STW and much more!",
+  "description": "A Universal Gameserver For Fortnite that aims for accuracy over version support. This gameserver should also have working STW and much more!",
+  "version": "Universal",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/Core.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/Preview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/PongooDev/Core",
+  "files": [
+    {
+      "name": "Core.dll",
+      "url": "https://github.com/PongooDev/Core/releases/download/latest/Core.dll"
+    }
+  ]
+}
