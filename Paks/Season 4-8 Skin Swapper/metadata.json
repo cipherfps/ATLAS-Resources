@@ -1,0 +1,20 @@
+{
+  "name": "Season 4-8 Skin Swapper",
+  "author": "Made by TI93",
+  "cardDescription": "Allows you to swap your skin mid-game with a menu in Fortnite v4.20-8.20",
+  "description": "Allows you to swap your skin mid-game with a menu in Fortnite v4.20-8.20\n\n**How To Use:**\n- Once you are fully in game click the `L` key\n- The menu should appear allowing you to choose a skin and backbling\n- The skin shows up for players without the pak",
+  "version": "4.20-8.20",
+  "tags": ["Skin Swapper"],
+  "cardImage": "Content/SkinSwapperPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/SkinSwapperPreview.png"
+    }
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Season%204-8%20Skin%20Swapper",
+  "files": [
+    "pakchunkTI93V5-WindowsClient.pak",
+    "pakchunkTI93V5-WindowsClient.sig"
+  ]
+}
