@@ -25,74 +25,25 @@
     }
   ],
   "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/Paks/Retrac%2014.40",
+  "filesBaseUrl": "https://atlas.fmod.dev/paks/retrac/14.40/",
   "files": [
-    {
-      "name": "pakchunk2003-WindowsClient_P.pak",
-      "url": "https://drive.google.com/file/d/1fCj6rTGIl7GSM_NohAxSTe0NWGxlBjJ0/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2003-WindowsClient_P.sig",
-      "url": "https://drive.google.com/file/d/14H4vBtggWvL9hh6oG1yuNEIJJI5gNZMH/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2004-WindowsClient_P.pak",
-      "url": "https://drive.google.com/file/d/1V8nNJhlUkGb4_5uxy5fcb6QbYHXZX_Mx/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2004-WindowsClient_P.sig",
-      "url": "https://drive.google.com/file/d/1JS4hXGDgUZ27roqpKWodmRutrQ926PCm/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2004-WindowsClient_P.ucas",
-      "url": "https://drive.google.com/file/d/1QG8zOONYs6dQ1v8DCejKq2w-ONZlJnJ4/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2004-WindowsClient_P.utoc",
-      "url": "https://drive.google.com/file/d/1xpC1ACMfr_SfWPRQZ2Q_X7unU3A3oYJi/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2005-WindowsClient_P.pak",
-      "url": "https://drive.google.com/file/d/1-wYcJNv2mrc-xMNQmYS2tmqycaz02NSd/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2005-WindowsClient_P.sig",
-      "url": "https://drive.google.com/file/d/1g7NDqhnzYhJ1rgV4bI1IIxdSEdqotjCP/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2005-WindowsClient_P.ucas",
-      "url": "https://drive.google.com/file/d/1kCO-xhDy-T-Cys_3cOGzsp30-XlEg_Lb/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2005-WindowsClient_P.utoc",
-      "url": "https://drive.google.com/file/d/1uq6kfpRVxOrgnAPickCTSBbIk3s9tiPd/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2009-WindowsClient_P.pak",
-      "url": "https://drive.google.com/file/d/1ETUr1zZY-LEfNjRq2SoPy1Fcm_6CpQgQ/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2009-WindowsClient_P.sig",
-      "url": "https://drive.google.com/file/d/1_zEDol0DC-cNPtIc4rXXfHqXoZuBxpgo/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2009-WindowsClient_P.ucas",
-      "url": "https://drive.google.com/file/d/1GP5bkOReT26hbI3xlnY4lmeattzbZs4E/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2028-WindowsClient_P.pak",
-      "url": "https://drive.google.com/file/d/1OBP3spQULicdd8HgMuSULkLvKTH5_mGU/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2028-WindowsClient_P.sig",
-      "url": "https://drive.google.com/file/d/1IJKRYPh5r-_jmysYu6n-v2P0XRWgNA2i/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2028-WindowsClient_P.ucas",
-      "url": "https://drive.google.com/file/d/1aGfICtOEeWpTX17yTY0p5gTuWVA2-UBQ/view?usp=drive_link"
-    },
-    {
-      "name": "pakchunk2028-WindowsClient_P.utoc",
-      "url": "https://drive.google.com/file/d/1VNNrvZNNZ_Wlb0-ByeyPufVQk3lnRqZi/view?usp=drive_link"
-    }
+    "pakchunk2003-WindowsClient_P.pak",
+    "pakchunk2003-WindowsClient_P.sig",
+    "pakchunk2004-WindowsClient_P.pak",
+    "pakchunk2004-WindowsClient_P.sig",
+    "pakchunk2004-WindowsClient_P.ucas",
+    "pakchunk2004-WindowsClient_P.utoc",
+    "pakchunk2005-WindowsClient_P.pak",
+    "pakchunk2005-WindowsClient_P.sig",
+    "pakchunk2005-WindowsClient_P.ucas",
+    "pakchunk2005-WindowsClient_P.utoc",
+    "pakchunk2009-WindowsClient_P.pak",
+    "pakchunk2009-WindowsClient_P.sig",
+    "pakchunk2009-WindowsClient_P.ucas",
+    "pakchunk2009-WindowsClient_P.utoc",
+    "pakchunk2028-WindowsClient_P.pak",
+    "pakchunk2028-WindowsClient_P.sig",
+    "pakchunk2028-WindowsClient_P.ucas",
+    "pakchunk2028-WindowsClient_P.utoc"
   ]
 }
