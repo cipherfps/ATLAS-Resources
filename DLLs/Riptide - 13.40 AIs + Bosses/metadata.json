@@ -1,0 +1,28 @@
+{
+  "name": "Riptide",
+  "author": "Modified by ralz",
+  "cardDescription": "Play Chapter 2, Season 3 with many features nearly perfectly accurate!",
+  "description": "Play Chapter 2, Season 3 with many features nearly perfectly accurate! Has 100 Player AIs, Patrolling Henchmen/Bosses, Sharks, Marauders, Rebooting/Teams, Jules' Glider Override, Shakedowns, and many other features!",
+  "version": "13.40",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    },
+	{
+      "type": "image",
+      "path": "Content/DLLPreview2.png"
+	},
+	{
+      "type": "image",
+      "path": "Content/DLLPreview3.png"
+	}
+  ],
+  "sourceUrl": "https://github.com/cipherfps/ATLAS-Resources/tree/main/DLLs/Riptide%20-%2013.40%20AIs%20+%20Bosses",
+  "files": [
+    "Riptide.dll"
+  ]
+}
